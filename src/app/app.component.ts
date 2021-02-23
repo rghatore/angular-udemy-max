@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-udemy-max';
-  message = "hello world"
+  // title = 'angular-udemy-max'; // used in section 1
+  // message = "hello world" // used in section 1
 }
