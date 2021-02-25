@@ -115,7 +115,9 @@
       "options": [
         "check-branch",
         "check-decl",
+        "check-module",
         "check-operator",
+        "check-postbrace",
         "check-separator",
         "check-type",
         "check-typecast"
