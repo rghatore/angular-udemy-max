@@ -6,5 +6,12 @@ h3 {
 :host {
   /* width: 100vw; */
   /* margin: 1em; */
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
   background-color: powderblue;
+}
+
+.success-msg {
+  background-color: white;
 }
